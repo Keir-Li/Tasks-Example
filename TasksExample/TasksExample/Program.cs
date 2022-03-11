@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My Submission for an Example Task" + Environment.NewLine + "By Keir Li"  + Environment.NewLine + "Written in .NET Framework 4.8");
+            Console.WriteLine("My Submission for an Example Task" + Environment.NewLine + "By Keir Li"  + Environment.NewLine + "Written in .NET 6");
             Console.WriteLine("" + Environment.NewLine + "------------------------------------------- " + Environment.NewLine + "");
 
             RunSentenceTask();
